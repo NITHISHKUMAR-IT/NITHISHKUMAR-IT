@@ -1,32 +1,37 @@
 # NITHISH KUMAR
 
-### Cloud & DevOps Engineer (Aspiring)
+### Aspiring Cloud & DevOps Engineer
 
-Building production-ready cloud infrastructure using Amazon Web Services while continuously strengthening expertise in Cloud Computing, Python, Java, Linux, Docker, and DevOps.
+Building secure, scalable, and production-inspired cloud solutions using AWS, Linux, Python, Docker, and Infrastructure as Code.
 
 ---
 
 ## Professional Summary
 
-Final Year B.Tech Information Technology student with a strong interest in Cloud Computing, AWS, and DevOps.
+Final-year B.Tech Information Technology student focused on Cloud Computing, AWS, and DevOps.
 
-Focused on designing production-inspired cloud infrastructure through hands-on implementation, technical documentation, and continuous learning.
+Hands-on experience with cloud networking, compute, storage, security, monitoring, containerization, and Infrastructure as Code through production-inspired AWS projects.
 
-Currently preparing for Cloud Engineer and AWS-focused opportunities by building scalable, secure, and highly available cloud solutions.
+Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunities.
+
+## Technology Stack
 
 ## Technology Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,python,java,linux,docker,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=aws,python,linux,docker,git,github,vscode" />
 </p>
 
 <p align="center">
 
-AWS • Python • Java • Linux • Docker • Git • GitHub • VS Code
+AWS • Python • Linux • Docker • Git • GitHub • VS Code
 
 </p>
+
+## Currently Learning
+
+Java | Google Cloud | DevOps Tooling | AI-Assisted Development
+
 
 ## Featured Projects
 
