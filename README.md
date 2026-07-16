@@ -44,16 +44,45 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
 | Containerized Website Deployment using Docker | Web application containerization and deployment using Docker and Nginx. |
 
 
-## Certifications
+## Certifications and Learning Achievements
 
-| Certification | Status |
-|--------------|--------|
-| AWS Cloud Quest – Cloud Practitioner | Completed |
-| AWS SimuLearn – Cloud Practitioner | Completed |
-| AWS Skill Builder Learning Achievements | Completed |
-| NPTEL – Human Computer Interaction (Elite + Gold) | Completed |
-| Google Cloud Skills Boost | In Progress |
+| Credential | Issuer | Status |
+|---|---|---|
+| Human Computer Interaction — Elite + Gold | NPTEL | Completed |
+| Cloud Quest: Cloud Practitioner | AWS | Completed |
+| SimuLearn: Cloud Practitioner | AWS | Completed |
+| AWS Skill Builder Learning Achievements | AWS | Completed |
+| Oracle Database for Developers: Foundation | Oracle | Completed |
+| Google Cloud Skills Boost | Google Cloud | In Progress |
 
+## Credentials and Digital Badges
+
+| Credential | Issuer | Verification |
+|---|---|---|
+| AWS SimuLearn – Cloud Practitioner – Training Badge | Amazon Web Services | [Verify Credential](https://www.credly.com/badges/7f3980f5-4e1b-46be-a479-370b85d2e92e/public_url) |
+| AWS Cloud Quest: Cloud Practitioner – Training Badge | Amazon Web Services | [Verify Credential](https://www.credly.com/badges/91af4cd1-6f9c-42e3-9742-fb13ca7ec5e6/public_url) |
+| AWS Educate Getting Started with Security – Training Badge | Amazon Web Services | [Verify Credential](https://www.credly.com/badges/34bf4c11-99b1-4820-b7db-5c49b377b4f8/public_url) |
+| AWS Educate Introduction to Cloud 101 – Training Badge | Amazon Web Services | [Verify Credential](https://www.credly.com/badges/44284585-294e-4579-b98b-b240fe27aa43/public_url) |
+| Oracle Database for Developers: Foundation | Oracle | Completed |
+| Human Computer Interaction – Elite + Gold | NPTEL | Completed |
+
+<p align="center">
+  <a href="https://www.credly.com/badges/7f3980f5-4e1b-46be-a479-370b85d2e92e/public_url">
+    <img src="https://img.shields.io/badge/AWS_SimuLearn-Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SimuLearn Cloud Practitioner">
+  </a>
+
+  <a href="https://www.credly.com/badges/91af4cd1-6f9c-42e3-9742-fb13ca7ec5e6/public_url">
+    <img src="https://img.shields.io/badge/AWS_Cloud_Quest-Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Quest Cloud Practitioner">
+  </a>
+
+  <a href="https://www.credly.com/badges/34bf4c11-99b1-4820-b7db-5c49b377b4f8/public_url">
+    <img src="https://img.shields.io/badge/AWS_Educate-Security-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Educate Security">
+  </a>
+
+  <a href="https://www.credly.com/badges/44284585-294e-4579-b98b-b240fe27aa43/public_url">
+    <img src="https://img.shields.io/badge/AWS_Educate-Cloud_101-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Educate Cloud 101">
+  </a>
+</p>
 
 ## Current Engineering Focus
 
