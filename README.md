@@ -1,4 +1,4 @@
-# NITHISH KUMAR
+# NITHISHKUMAR K
 
 ### Aspiring Cloud & DevOps Engineer
 
@@ -88,10 +88,19 @@ Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunit
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/nithishkumar-k-072726388">
+  <a href="https://nithishkumar-it.github.io/nithishkumar-cloud-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+
+  <a href="https://www.linkedin.com/in/nithishkumar-k-072726388" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nithishkumar_K-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
   <a href="mailto:nithishdev29@gmail.com">
     <img src="https://img.shields.io/badge/Email-nithishdev29%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://wa.me/916383143107" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
