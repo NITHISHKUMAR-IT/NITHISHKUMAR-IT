@@ -66,12 +66,6 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
 | Oracle Database for Developers: Foundation | Oracle | Completed |
 | Human Computer Interaction – Elite + Gold | NPTEL | Completed |
 
-<p align="center">
-  <a href="https://www.credly.com/badges/7f3980f5-4e1b-46be-a479-370b85d2e92e/public_url">
-    <img src="https://img.shields.io/badge/AWS_SimuLearn-Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SimuLearn Cloud Practitioner">
-  </a>
-
-
 
 ## Current Engineering Focus
 
