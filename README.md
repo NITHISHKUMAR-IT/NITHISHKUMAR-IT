@@ -44,18 +44,7 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
 | Containerized Website Deployment using Docker | Web application containerization and deployment using Docker and Nginx. |
 
 
-## Certifications and Learning Achievements
-
-| Credential | Issuer | Status |
-|---|---|---|
-| Human Computer Interaction — Elite + Gold | NPTEL | Completed |
-| Cloud Quest: Cloud Practitioner | AWS | Completed |
-| SimuLearn: Cloud Practitioner | AWS | Completed |
-| AWS Skill Builder Learning Achievements | AWS | Completed |
-| Oracle Database for Developers: Foundation | Oracle | Completed |
-| Google Cloud Skills Boost | Google Cloud | In Progress |
-
-## Credentials and Digital Badges
+## Certifications, Credentials and Digital Badges
 
 | Credential | Issuer | Verification |
 |---|---|---|
@@ -65,7 +54,7 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
 | AWS Educate Introduction to Cloud 101 – Training Badge | Amazon Web Services | [Verify Credential](https://www.credly.com/badges/44284585-294e-4579-b98b-b240fe27aa43/public_url) |
 | Oracle Database for Developers: Foundation | Oracle | Completed |
 | Human Computer Interaction – Elite + Gold | NPTEL | Completed |
-
+| Google Cloud Skills Boost | Google Cloud | In Progress |
 
 ## Current Engineering Focus
 
