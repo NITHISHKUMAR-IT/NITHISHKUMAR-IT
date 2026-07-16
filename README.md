@@ -71,18 +71,7 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
     <img src="https://img.shields.io/badge/AWS_SimuLearn-Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SimuLearn Cloud Practitioner">
   </a>
 
-  <a href="https://www.credly.com/badges/91af4cd1-6f9c-42e3-9742-fb13ca7ec5e6/public_url">
-    <img src="https://img.shields.io/badge/AWS_Cloud_Quest-Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Quest Cloud Practitioner">
-  </a>
 
-  <a href="https://www.credly.com/badges/34bf4c11-99b1-4820-b7db-5c49b377b4f8/public_url">
-    <img src="https://img.shields.io/badge/AWS_Educate-Security-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Educate Security">
-  </a>
-
-  <a href="https://www.credly.com/badges/44284585-294e-4579-b98b-b240fe27aa43/public_url">
-    <img src="https://img.shields.io/badge/AWS_Educate-Cloud_101-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Educate Cloud 101">
-  </a>
-</p>
 
 ## Current Engineering Focus
 
