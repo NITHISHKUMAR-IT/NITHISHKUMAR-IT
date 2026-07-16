@@ -36,12 +36,12 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
 ## Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| Highly Available AWS 3-Tier Web Application | Production-style AWS architecture demonstrating VPC, EC2, ALB, Auto Scaling, Amazon RDS, IAM, and CloudWatch. |
-| Static Website Hosting on Amazon S3 | Hosted a static website using Amazon S3 with proper bucket configuration and public access management. |
-| Web Application Deployment on Amazon EC2 | Deployed and configured a Linux-based web server on Amazon EC2 with secure remote access. |
-| Infrastructure as Code using AWS CloudFormation | Automated AWS infrastructure deployment using reusable YAML templates. |
-| Containerized Website using Docker | Containerized and deployed a web application using Docker and Nginx. |
+|---|---|
+| [Highly Available 3-Tier Web Application on AWS](https://github.com/NITHISHKUMAR-IT/aws-3tier-web-application) | Production-inspired AWS architecture using VPC, EC2, Application Load Balancer, Auto Scaling, Amazon RDS, IAM, and CloudWatch. |
+| Static Website Hosting on Amazon S3 | Static website deployment using Amazon S3 website hosting and bucket access configuration. |
+| Web Application Deployment on Amazon EC2 | Linux-based web application deployment using EC2, Security Groups, and secure remote access. |
+| Infrastructure as Code using AWS CloudFormation | Reusable YAML templates for automated AWS infrastructure provisioning. |
+| Containerized Website Deployment using Docker | Web application containerization and deployment using Docker and Nginx. |
 
 
 ## Certifications
