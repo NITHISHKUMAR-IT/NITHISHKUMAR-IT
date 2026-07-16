@@ -14,7 +14,6 @@ Hands-on experience with cloud networking, compute, storage, security, monitorin
 
 Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunities.
 
-## Technology Stack
 
 ## Technology Stack
 
@@ -24,7 +23,6 @@ Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunit
 
 <p align="center">
 
-AWS • Python • Linux • Docker • Git • GitHub • VS Code
 
 </p>
 
@@ -54,18 +52,23 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
 | AWS Educate Introduction to Cloud 101 – Training Badge | Amazon Web Services | [Verify Credential](https://www.credly.com/badges/44284585-294e-4579-b98b-b240fe27aa43/public_url) |
 | Oracle Database for Developers: Foundation | Oracle | Completed |
 | Human Computer Interaction – Elite + Gold | NPTEL | Completed |
-| Google Cloud Skills Boost | Google Cloud | In Progress |
 
 ## Current Engineering Focus
 
-- Cloud Architecture
-- Amazon Web Services
-- Python Programming
-- Java Programming
-- Linux Administration
-- Docker
-- DevOps Fundamentals
-- AI-Assisted Development
+- AWS architecture and cloud infrastructure
+- Python fundamentals and automation
+- Linux administration
+- Docker and containerized deployments
+- Infrastructure as Code
+- Cloud security and monitoring
+- Technical documentation
+
+## Currently Learning
+
+- Java for placement assessments
+- Google Cloud fundamentals
+- DevOps tooling
+- AI-assisted engineering workflows
 
 ## Engineering Roadmap
 
@@ -73,8 +76,8 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
 
 - Build Production-Ready AWS Projects
 - Strengthen Python Development
-- Master Java for Placements
-- Learn Docker & Containerization
+- Strengthen Java for placement assessments
+- Build and document containerized applications
 - Learn Terraform
 - Learn Jenkins
 - Learn Kubernetes
@@ -82,12 +85,12 @@ Java | Google Cloud | DevOps Tooling | AI-Assisted Development
 
 ## Connect
 
-LinkedIn
-
-https://www.linkedin.com/in/nithishkumar-k-072726388
-
-Email
-
-nithishdev29@gmail.com
-
+<p>
+  <a href="https://www.linkedin.com/in/nithishkumar-k-072726388">
+    <img src="https://img.shields.io/badge/LinkedIn-Nithishkumar_K-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nithishdev29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nithishdev29%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
