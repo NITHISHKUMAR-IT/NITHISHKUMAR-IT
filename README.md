@@ -30,7 +30,7 @@ Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunit
 |---|---|---|
 | [Highly Available 3-Tier Web Application on AWS](https://github.com/NITHISHKUMAR-IT/aws-3tier-web-application) | Production-inspired AWS architecture using VPC, EC2, Application Load Balancer, Auto Scaling, Amazon RDS, IAM, and CloudWatch. | In Progress |
 | [Static Website Hosting on Amazon S3](https://github.com/NITHISHKUMAR-IT/aws-s3-static-website-hosting) | Static website deployment using Amazon S3 website hosting and bucket access configuration. | Completed |
-| Web Application Deployment on Amazon EC2 | Linux-based web application deployment using EC2, Security Groups, and secure remote access. | Completed |
+| [Web Application Deployment on Amazon EC2](https://github.com/NITHISHKUMAR-IT/aws-ec2-nginx-hosting) | Linux-based web application deployment using EC2, Security Groups, and secure remote access. | Completed |
 | Infrastructure as Code using AWS CloudFormation | Reusable YAML templates for automated AWS infrastructure provisioning. | Completed |
 | Containerized Website Deployment using Docker | Web application containerization and deployment using Docker and Nginx. | Completed |
 
