@@ -32,7 +32,7 @@ Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunit
 | [Static Website Hosting on Amazon S3](https://github.com/NITHISHKUMAR-IT/aws-s3-static-website-hosting) | Static website deployment using Amazon S3 website hosting and bucket access configuration. | Completed |
 | [Web Application Deployment on Amazon EC2](https://github.com/NITHISHKUMAR-IT/aws-ec2-nginx-hosting) | Linux-based web application deployment using EC2, Security Groups, and secure remote access. | Completed |
 | [Infrastructure as Code using AWS CloudFormation](https://github.com/NITHISHKUMAR-IT/aws-cloudformation-iac) | Provisioned and verified a custom VPC, public subnet, routing, IAM role, EC2 instance, and automated Nginx deployment using a reusable CloudFormation YAML template. | Completed |
-| Containerized Website Deployment using Docker | Web application containerization and deployment using Docker and Nginx. | Planned |
+| [Dockerized Nginx Web Application](https://github.com/NITHISHKUMAR-IT/dockerized-nginx-web-app) | Containerized static web application using Docker and Nginx with image build, port mapping, health checks, HTTP verification, and GitHub Pages demo. | Completed |
 
 ---
 
