@@ -29,6 +29,7 @@ Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunit
 | Project | Description | Status |
 |---|---|---|
 | [Highly Available 3-Tier Web Application on AWS](https://github.com/NITHISHKUMAR-IT/aws-3tier-web-application) | Production-inspired AWS architecture using VPC, EC2, Application Load Balancer, Auto Scaling, Amazon RDS, IAM, and CloudWatch. | In Progress |
+| [Secure RAG API — FastAPI Backend](https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend) | Backend-only Retrieval-Augmented Generation system using FastAPI, FAISS, Sentence Transformers, document chunking, semantic search, and source-grounded responses. | In Progress |
 | [Static Website Hosting on Amazon S3](https://github.com/NITHISHKUMAR-IT/aws-s3-static-website-hosting) | Static website deployment using Amazon S3 website hosting and bucket access configuration. | Completed |
 | [Web Application Deployment on Amazon EC2](https://github.com/NITHISHKUMAR-IT/aws-ec2-nginx-hosting) | Linux-based web application deployment using EC2, Security Groups, and secure remote access. | Completed |
 | [Infrastructure as Code using AWS CloudFormation](https://github.com/NITHISHKUMAR-IT/aws-cloudformation-iac) | Provisioned and verified a custom VPC, public subnet, routing, IAM role, EC2 instance, and automated Nginx deployment using a reusable CloudFormation YAML template. | Completed |
