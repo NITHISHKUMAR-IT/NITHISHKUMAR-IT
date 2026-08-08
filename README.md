@@ -89,9 +89,6 @@ Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunit
 ## Connect
 
 <p>
-  <a href="nithish-portfolio-rho.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio">
-  </a>
 
   <a href="https://www.linkedin.com/in/nithishkumar-k-072726388" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nithishkumar_K-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
