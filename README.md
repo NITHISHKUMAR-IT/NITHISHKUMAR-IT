@@ -89,7 +89,7 @@ Currently seeking Cloud/AWS internship and entry-level Cloud Engineer opportunit
 ## Connect
 
 <p>
-  <a href="https://nithishkumar-it.github.io/nithishkumar-cloud-portfolio/" target="_blank">
+  <a href="nithish-portfolio-rho.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 
