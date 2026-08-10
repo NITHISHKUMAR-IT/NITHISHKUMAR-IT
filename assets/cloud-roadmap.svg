@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title">
+  <title id="title">Nithishkumar's 2026 cloud engineering roadmap</title>
+  <rect width="1200" height="260" rx="24" fill="#020617"/>
+  <text x="50" y="55" fill="#fff" font-family="Segoe UI,Arial" font-size="29" font-weight="800">2026 ENGINEERING ROADMAP</text>
+  <path d="M110 150H1090" stroke="#146c94" stroke-width="5"/>
+  <g font-family="Segoe UI,Arial" text-anchor="middle">
+    <g transform="translate(130 150)"><circle r="30" fill="#ff9900"/><text y="7" fill="#111827" font-size="19" font-weight="900">01</text><text y="58" fill="#fff" font-size="15" font-weight="700">3-Tier AWS</text><text y="79" fill="#94a3b8" font-size="12">Complete</text></g>
+    <g transform="translate(365 150)"><circle r="30" fill="#8b5cf6"/><text y="7" fill="#fff" font-size="19" font-weight="900">02</text><text y="58" fill="#fff" font-size="15" font-weight="700">Terraform</text><text y="79" fill="#94a3b8" font-size="12">Build IaC</text></g>
+    <g transform="translate(600 150)"><circle r="30" fill="#38bdf8"/><text y="7" fill="#082f49" font-size="19" font-weight="900">03</text><text y="58" fill="#fff" font-size="15" font-weight="700">CI/CD</text><text y="79" fill="#94a3b8" font-size="12">Deploy Pipeline</text></g>
+    <g transform="translate(835 150)"><circle r="30" fill="#326ce5"/><text y="7" fill="#fff" font-size="19" font-weight="900">04</text><text y="58" fill="#fff" font-size="15" font-weight="700">Kubernetes</text><text y="79" fill="#94a3b8" font-size="12">After Docker</text></g>
+    <g transform="translate(1070 150)"><circle r="30" fill="#22c55e"/><text y="7" fill="#052e16" font-size="19" font-weight="900">05</text><text y="58" fill="#fff" font-size="15" font-weight="700">Cloud Role</text><text y="79" fill="#94a3b8" font-size="12">Internship / Job</text></g>
+  </g>
+</svg>
