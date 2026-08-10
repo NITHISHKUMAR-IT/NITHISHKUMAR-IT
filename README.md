@@ -1,18 +1,35 @@
 <div align="center">
 
-![Nithishkumar K — Cloud and DevOps Header](./assets/cloud-profile-header.svg)
+# ☁️ NITHISHKUMAR K
 
 ### Aspiring Cloud & DevOps Engineer
 
-Final-year B.Tech Information Technology student building secure, scalable and production-inspired cloud solutions.
+`Final-Year B.Tech IT` · `AWS Cloud` · `Linux` · `Docker` · `Infrastructure as Code`
 
-[Portfolio](https://nithish-portfolio-rho.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nithishkumar-k-072726388) · [Email](mailto:nithishdev29@gmail.com) · [Repositories](https://github.com/NITHISHKUMAR-IT?tab=repositories)
+Building secure, scalable and production-inspired cloud solutions through hands-on deployments.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://nithish-portfolio-rho.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishkumar-k-072726388)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishdev29@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHISHKUMAR-IT?tab=repositories)
+
+<br>
+
+[![Followers](https://img.shields.io/github/followers/NITHISHKUMAR-IT?style=flat-square&logo=github&label=Followers&color=146C94)](https://github.com/NITHISHKUMAR-IT?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=NITHISHKUMAR-IT&label=Profile+Views&color=FF9900&style=flat-square)](https://github.com/NITHISHKUMAR-IT)
+[![Open to Work](https://img.shields.io/badge/OPEN_TO-CLOUD_%26_DEVOPS_INTERNSHIPS-22C55E?style=flat-square)](mailto:nithishdev29@gmail.com)
+
+### 🧭 Navigate
+
+[About](#-about-me) • [Skills](#-cloud--devops-stack) • [Projects](#-featured-projects) • [Credentials](#-credentials--achievements) • [Roadmap](#-2026-engineering-roadmap) • [Connect](#-connect)
 
 </div>
 
 ---
 
-## Cloud Profile
+## ☁️ About Me
 
 ```yaml
 name: Nithishkumar K
@@ -20,20 +37,23 @@ role: Aspiring Cloud & DevOps Engineer
 education: Final-Year B.Tech Information Technology
 college: Mahendra Engineering College
 location: Tamil Nadu, India
-current_build: Highly Available 3-Tier Web Application on AWS
-career_target: Cloud / AWS / DevOps Internship
+current_project: Highly Available 3-Tier Web Application on AWS
+career_status: Actively seeking Cloud/AWS internship opportunities
 ```
 
-- Hands-on with AWS networking, compute, storage, security and monitoring.
-- Deployed applications using Linux, Nginx, Docker and AWS CloudFormation.
-- Building real projects with deployment evidence and technical documentation.
-- Interested in cloud security, reliable infrastructure and DevOps automation.
+- 🔭 Building a **Highly Available 3-Tier Web Application on AWS**.
+- 🧪 Learning through deployments, failures, troubleshooting and documentation.
+- 🛠️ Hands-on with **IAM, EC2, S3, VPC, ALB, Auto Scaling, RDS and CloudWatch**.
+- 📦 Deployed workloads using **Linux, Nginx, Docker and CloudFormation**.
+- 🔐 Interested in cloud security, reliable infrastructure and DevOps automation.
+- 🎯 Working toward an industry-ready **Cloud/AWS or DevOps Engineer** profile.
 
 <details>
-<summary><strong>My learning method</strong></summary>
+<summary><b>⚡ How I learn cloud engineering</b></summary>
+<br>
 
 ```text
-Learn Concept → Deploy → Create Failure → Troubleshoot → Fix → Document → Improve
+Learn → Design → Deploy → Break → Troubleshoot → Fix → Document → Improve
 ```
 
 I use production-inspired incidents to understand why infrastructure fails and how to recover it safely.
@@ -42,38 +62,64 @@ I use production-inspired incidents to understand why infrastructure fails and h
 
 ---
 
-## Skills & Technology
+## 🧰 Cloud & DevOps Stack
 
-![Cloud and DevOps skills](./assets/skills-showcase.svg)
+<div align="center">
 
-### AWS Experience
+### Cloud Platform
 
-| Area | Services and concepts |
-|---|---|
-| Identity & Security | IAM users, groups, policies, roles, MFA and least privilege |
-| Compute | EC2, AMIs, user data, Auto Scaling and load-balanced workloads |
-| Storage | S3, EBS, EFS and lifecycle-oriented storage decisions |
-| Networking | VPC, public/private subnets, route tables, IGW, NAT Gateway and Security Groups |
-| Database | RDS fundamentals and DynamoDB learning labs |
-| Operations | CloudWatch metrics, alarms, AWS CLI and deployment verification |
-| Infrastructure as Code | CloudFormation YAML templates and stack lifecycle |
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com)
 
-### Current Learning — Clearly Separated
+![IAM](https://img.shields.io/badge/IAM-ACCESS_CONTROL-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-COMPUTE-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-STORAGE-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-NETWORKING-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-`Terraform` · `CI/CD Pipelines` · `Jenkins` · `Kubernetes` · `Google Cloud Fundamentals`
+![RDS](https://img.shields.io/badge/RDS-DATABASE-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DYNAMODB-NOSQL-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CLOUDWATCH-MONITORING-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CLOUDFORMATION-IAC-759C3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-> These are roadmap technologies, not claimed as completed production skills.
+### Systems, Containers & Tools
+
+[![Tools](https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,vscode,bash&theme=dark&perline=8)](https://skillicons.dev)
+
+### Programming & Data
+
+[![Programming](https://skillicons.dev/icons?i=python,java,mysql,postgres,html,css,js&theme=dark&perline=7)](https://skillicons.dev)
+
+![YAML](https://img.shields.io/badge/YAML-CONFIGURATION-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FUNDAMENTALS-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-OPERATIONS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+
+### Currently Learning
+
+[![Learning](https://skillicons.dev/icons?i=terraform,jenkins,kubernetes,gcp,githubactions&theme=dark&perline=5)](https://skillicons.dev)
+
+![Terraform](https://img.shields.io/badge/TERRAFORM-LEARNING-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/JENKINS-ROADMAP-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-ROADMAP-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GOOGLE_CLOUD-FOUNDATIONS-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+<sub>Roadmap technologies are labelled separately and are not claimed as completed production skills.</sub>
+
+</div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-![Featured cloud projects](./assets/project-showcase.svg)
+<div align="center">
 
-### 1. Highly Available 3-Tier Web Application on AWS
+### CLOUD PROJECT LAB
 
-**Status:** In Progress  
-**Repository:** [aws-3tier-web-application](https://github.com/NITHISHKUMAR-IT/aws-3tier-web-application)
+`ARCHITECT` → `SECURE` → `DEPLOY` → `MONITOR` → `DOCUMENT`
+
+</div>
+
+<details open>
+<summary><b>🏗️ Highly Available 3-Tier Web Application on AWS — In Progress</b></summary>
+<br>
 
 ```text
 Users → Route 53 → Application Load Balancer → Auto Scaling EC2 → Amazon RDS
@@ -82,129 +128,142 @@ Users → Route 53 → Application Load Balancer → Auto Scaling EC2 → Amazon
 
 - Multi-AZ VPC with public, application and database subnet layers.
 - Application Load Balancer and Auto Scaling architecture.
-- Private RDS database tier and Security Group chaining.
+- Private Amazon RDS database tier.
+- Security Group chaining between application layers.
 - IAM, CloudWatch, S3 and production-oriented documentation.
 
-### 2. Infrastructure as Code with AWS CloudFormation
+**Stack:** `VPC` · `EC2` · `ALB` · `Auto Scaling` · `RDS` · `IAM` · `CloudWatch`
 
-**Status:** Completed  
-**Repository:** [aws-cloudformation-iac](https://github.com/NITHISHKUMAR-IT/aws-cloudformation-iac)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHISHKUMAR-IT/aws-3tier-web-application)
+
+</details>
+
+<details>
+<summary><b>🧱 Infrastructure as Code with CloudFormation — Completed</b></summary>
+<br>
 
 - Reusable CloudFormation YAML template.
 - Custom VPC, public subnet, routing and internet connectivity.
-- IAM role and EC2 provisioning.
+- IAM role and EC2 instance provisioning.
 - Automated Nginx installation and deployment verification.
 
-### 3. Amazon EC2 + Nginx Web Deployment
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-759C3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHISHKUMAR-IT/aws-cloudformation-iac)
 
-**Status:** Completed  
-**Repository:** [aws-ec2-nginx-hosting](https://github.com/NITHISHKUMAR-IT/aws-ec2-nginx-hosting)
+</details>
+
+<details>
+<summary><b>🖥️ Amazon EC2 + Nginx Deployment — Completed</b></summary>
+<br>
 
 - Linux EC2 deployment and Security Group configuration.
 - Secure remote administration and Nginx setup.
 - Application hosting, service checks and HTTP validation.
 
-### 4. Dockerized Nginx Web Application
-
-**Status:** Completed  
-**Repository:** [dockerized-nginx-web-app](https://github.com/NITHISHKUMAR-IT/dockerized-nginx-web-app)
-
-- Reusable Docker image for an Nginx web application.
-- Port mapping, container health checks and HTTP verification.
-- Documented image build and container runtime workflow.
-
-<details>
-<summary><strong>More hands-on projects</strong></summary>
-
-| Project | Focus | Status |
-|---|---|---|
-| [Amazon S3 Static Website Hosting](https://github.com/NITHISHKUMAR-IT/aws-s3-static-website-hosting) | S3 website hosting and bucket access configuration | Completed |
-| [Java Cloud Server Health Checker](https://github.com/NITHISHKUMAR-IT/java-cloud-server-health-checker) | Java, JSP/Servlet, Tomcat and MySQL CRUD application | Completed |
-| [Secure RAG FastAPI Backend](https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend) | FastAPI, document retrieval and grounded responses | In Progress |
-| [Cloud Portfolio](https://github.com/NITHISHKUMAR-IT/nithish-portfolio) | AWS-console-inspired personal portfolio | In Progress |
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-146C94?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHISHKUMAR-IT/aws-ec2-nginx-hosting)
 
 </details>
 
+<details>
+<summary><b>🐳 Dockerized Nginx Web Application — Completed</b></summary>
+<br>
+
+- Reusable Docker image for an Nginx web application.
+- Port mapping, container health checks and HTTP verification.
+- Complete build and runtime documentation.
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/NITHISHKUMAR-IT/dockerized-nginx-web-app)
+
+</details>
+
+### More Hands-On Work
+
+| Project | Focus | Status |
+|---|---|---|
+| [Amazon S3 Static Website Hosting](https://github.com/NITHISHKUMAR-IT/aws-s3-static-website-hosting) | S3 website hosting and bucket access | ✅ Completed |
+| [Java Cloud Server Health Checker](https://github.com/NITHISHKUMAR-IT/java-cloud-server-health-checker) | Java, JSP/Servlet, Tomcat and MySQL | ✅ Completed |
+| [Secure RAG FastAPI Backend](https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend) | FastAPI and source-grounded retrieval | 🚧 In Progress |
+| [Cloud Portfolio](https://github.com/NITHISHKUMAR-IT/nithish-portfolio) | AWS-console-inspired portfolio | 🚧 In Progress |
+
 ---
 
-## Cloud Engineering Workflow
+## 🔁 Engineering Workflow
 
-![Cloud Project Lab](./assets/cloud-project-lab.svg)
+<div align="center">
 
-```text
-Requirement
-    ↓
-Architecture Design
-    ↓
-Secure Provisioning
-    ↓
-Application Deployment
-    ↓
-Health Verification & Monitoring
-    ↓
-Troubleshooting Documentation
-```
+![Plan](https://img.shields.io/badge/1-PLAN-030712?style=for-the-badge)
+![Design](https://img.shields.io/badge/2-DESIGN-0B2447?style=for-the-badge)
+![Provision](https://img.shields.io/badge/3-PROVISION-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Secure](https://img.shields.io/badge/4-SECURE-8C4FFF?style=for-the-badge)
+![Deploy](https://img.shields.io/badge/5-DEPLOY-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Monitor](https://img.shields.io/badge/6-MONITOR-FF4F8B?style=for-the-badge)
+![Improve](https://img.shields.io/badge/7-IMPROVE-22C55E?style=for-the-badge)
+
+</div>
 
 ### Production Principles Practised
 
-- Least-privilege IAM access.
-- Private application and database network tiers.
-- Multi-AZ design where availability requires it.
-- Monitoring and deployment validation.
-- Reusable infrastructure definitions.
-- Clear README documentation with evidence.
+![Least Privilege](https://img.shields.io/badge/IAM-LEAST_PRIVILEGE-FF9900?style=flat-square)
+![Private Tiers](https://img.shields.io/badge/NETWORKING-PRIVATE_TIERS-146C94?style=flat-square)
+![High Availability](https://img.shields.io/badge/ARCHITECTURE-HIGH_AVAILABILITY-22C55E?style=flat-square)
+![Monitoring](https://img.shields.io/badge/OPERATIONS-MONITORING-FF4F8B?style=flat-square)
+![Documentation](https://img.shields.io/badge/DELIVERY-DOCUMENTATION-8B5CF6?style=flat-square)
 
 ---
 
-## Credentials & Achievements
+## 🏅 Credentials & Achievements
 
-![Credentials and achievements](./assets/credentials-showcase.svg)
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-SKILL_BUILDER-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Credly](https://img.shields.io/badge/DIGITAL_BADGES-CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white)
+![Oracle](https://img.shields.io/badge/ORACLE-DATABASE_FOUNDATION-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-ELITE_%2B_GOLD-8B0000?style=for-the-badge)
+
+</div>
 
 | Credential | Issuer | Verification |
 |---|---|---|
-| AWS Cloud Quest: Cloud Practitioner | AWS | [Verify credential](https://www.credly.com/badges/91af4cd1-6f9c-42e3-9742-fb13ca7ec5e6/public_url) |
-| AWS SimuLearn: Cloud Practitioner | AWS | [Verify credential](https://www.credly.com/badges/7f3980f5-4e1b-46be-a479-370b85d2e92e/public_url) |
-| AWS Educate Introduction to Cloud 101 | AWS | [Verify credential](https://www.credly.com/badges/44284585-294e-4579-b98b-b240fe27aa43/public_url) |
-| AWS Educate Getting Started with Security | AWS | [Verify credential](https://www.credly.com/badges/34bf4c11-99b1-4820-b7db-5c49b377b4f8/public_url) |
+| AWS Cloud Quest: Cloud Practitioner | AWS | [Verify](https://www.credly.com/badges/91af4cd1-6f9c-42e3-9742-fb13ca7ec5e6/public_url) |
+| AWS SimuLearn: Cloud Practitioner | AWS | [Verify](https://www.credly.com/badges/7f3980f5-4e1b-46be-a479-370b85d2e92e/public_url) |
+| AWS Educate Introduction to Cloud 101 | AWS | [Verify](https://www.credly.com/badges/44284585-294e-4579-b98b-b240fe27aa43/public_url) |
+| AWS Educate Getting Started with Security | AWS | [Verify](https://www.credly.com/badges/34bf4c11-99b1-4820-b7db-5c49b377b4f8/public_url) |
 | Oracle Database for Developers: Foundation | Oracle | Completed |
 | Human Computer Interaction — Elite + Gold | NPTEL | Completed |
 
 ---
 
-## 2026 Engineering Roadmap
-
-![2026 Cloud engineering roadmap](./assets/cloud-roadmap.svg)
-
-1. Complete and document the highly available AWS 3-tier project.
-2. Build AWS infrastructure using Terraform.
-3. Create a practical CI/CD deployment pipeline.
-4. Strengthen Linux troubleshooting and Python automation.
-5. Learn Kubernetes after Docker and CI/CD foundations.
-6. Earn a Cloud/AWS/DevOps internship or entry-level role.
-
----
-
-## Why This Profile Has No Live Stats Widgets
-
-GitHub statistics, streak, trophy and activity-graph widgets depend on external services. They can become rate-limited or display broken images. This profile intentionally uses repository-owned SVG assets so the primary design remains stable and fully controlled.
-
-For current activity, visit [my GitHub repositories](https://github.com/NITHISHKUMAR-IT?tab=repositories) and [contribution history](https://github.com/NITHISHKUMAR-IT?tab=overview&from=2026-01-01&to=2026-12-31).
-
----
-
-## Connect
-
-| Platform | Link |
-|---|---|
-| Portfolio | [nithish-portfolio-rho.vercel.app](https://nithish-portfolio-rho.vercel.app) |
-| LinkedIn | [Nithishkumar K](https://www.linkedin.com/in/nithishkumar-k-072726388) |
-| GitHub | [NITHISHKUMAR-IT](https://github.com/NITHISHKUMAR-IT) |
-| Email | [nithishdev29@gmail.com](mailto:nithishdev29@gmail.com) |
+## 🗺️ 2026 Engineering Roadmap
 
 <div align="center">
 
+![AWS](https://img.shields.io/badge/01-AWS_3--TIER_PROJECT-FF9900?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/02-TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/03-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/04-KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloud Role](https://img.shields.io/badge/05-CLOUD_ROLE-22C55E?style=for-the-badge)
+
+</div>
+
+- Complete and document the highly available AWS 3-tier project.
+- Build AWS infrastructure using Terraform.
+- Create a practical CI/CD deployment pipeline.
+- Strengthen Linux troubleshooting and Python automation.
+- Learn Kubernetes after Docker and CI/CD foundations.
+- Earn a Cloud/AWS/DevOps internship or entry-level role.
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://nithish-portfolio-rho.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NITHISHKUMAR_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishkumar-k-072726388)
+[![GitHub](https://img.shields.io/badge/GITHUB-NITHISHKUMAR--IT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHISHKUMAR-IT)
+[![Email](https://img.shields.io/badge/EMAIL-NITHISHDEV29-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishdev29@gmail.com)
+
 ### Open to Cloud / AWS / DevOps internship opportunities
 
-![Cloud engineering footer](./assets/cloud-profile-footer.svg)
+<sub>Build • Secure • Deploy • Monitor • Improve</sub>
 
 </div>
