@@ -1,12 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0B2447,70:146C94,100:FF9900&height=255&section=header&text=NITHISHKUMAR%20K&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ASPIRING%20CLOUD%20%26%20DEVOPS%20ENGINEER&descAlignY=56&descSize=19)
+# ☁️ NITHISHKUMAR K
 
-<img src="https://avatars.githubusercontent.com/NITHISHKUMAR-IT" width="145" alt="Nithishkumar K GitHub profile picture" />
+### Aspiring Cloud & DevOps Engineer
+
+[![Interactive Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=FF9900&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=70&lines=Final-Year+B.Tech+Information+Technology+Student;Building+Secure+and+Scalable+AWS+Solutions;AWS+%7C+Linux+%7C+Docker+%7C+CloudFormation;Deploy+%E2%86%92+Monitor+%E2%86%92+Troubleshoot+%E2%86%92+Improve;Open+to+Cloud+%26+DevOps+Internships)](https://github.com/NITHISHKUMAR-IT)
+
+<sub>Building production-inspired cloud projects through hands-on deployment and troubleshooting.</sub>
 
 <br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=FF9900&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Nithishkumar+K+%F0%9F%91%8B;Final-Year+B.Tech+Information+Technology+Student;Building+Secure+and+Scalable+AWS+Solutions;Learning+Cloud+Through+Real-World+Deployments;AWS+%7C+Linux+%7C+Docker+%7C+CloudFormation)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://nithish-portfolio-rho.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishkumar-k-072726388)
