@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
+
 
 <br/><br/>
 
