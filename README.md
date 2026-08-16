@@ -1,12 +1,36 @@
+<!-- ========================= -->
+<!--        HERO SECTION        -->
+<!-- ========================= -->
+
 <div align="center">
 
-# ☁️ NITHISHKUMAR K
+<img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
 
-### Aspiring Cloud & DevOps Engineer
+<br/><br/>
 
-[![Interactive Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=FF9900&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=70&lines=Final-Year+B.Tech+Information+Technology+Student;Building+Secure+and+Scalable+AWS+Solutions;AWS+%7C+Linux+%7C+Docker+%7C+CloudFormation;Deploy+%E2%86%92+Monitor+%E2%86%92+Troubleshoot+%E2%86%92+Improve;Open+to+Cloud+%26+DevOps+Internships)](https://github.com/NITHISHKUMAR-IT)
+# 👋 Hi, I'm NITHISHKUMAR K
 
-<sub>Building production-inspired cloud projects through hands-on deployment and troubleshooting.</sub>
+### ☁️ Cloud / AWS Engineer | DevOps Enthusiast | Cloud Security Learner
+
+<p>
+Building secure, scalable and automated cloud infrastructure with AWS, Linux,
+Docker, networking and DevOps practices.
+</p>
+
+<br/>
+
+<a href="https://github.com/NITHISHKUMAR-IT">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=NITHISHKUMAR-IT&color=00FFCC&style=flat-square" alt="Profile Views"/>
+
+</div>
 
 <br><br>
 
